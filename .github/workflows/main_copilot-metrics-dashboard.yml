@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'copilot-metrics-dashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4EDD50DC36A94E87A499AFCD3E093679 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_599BF127131F434C93E680DA32BFE5EA }}
